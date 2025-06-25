@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
-출처: https://hulrud.tistory.com/3 [ㅇㅇㅇ]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lshun1110)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lshun1110/lshun1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
