@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## 졸려.
 <!--
 **lshun1110/lshun1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
